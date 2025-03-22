@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnSiguiente" itemID="67cf89fb-000001ba" symbolType="button" lastModified="1742609104">
+  <timeline>
+    <DOMTimeline name="btnSiguiente">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="162.8" height="27.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-92.8" ty="-16.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SIGUIENTE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="27.7" size="25" bitmapSize="500" face="TimesNewRomanPSMT" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="104.4" height="27.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-92.8" ty="-16.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Siguiente</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="VinetaBT-Regular" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="104.4" height="27.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-92.8" ty="-16.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Siguiente</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="VinetaBT-Regular" fillColor="#00CC00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

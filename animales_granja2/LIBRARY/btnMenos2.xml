@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnMenos2" itemID="67de0659-00000371" symbolType="button" lastModified="1742603877">
+  <timeline>
+    <DOMTimeline name="btnMenos2" currentFrame="1">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="17311873.png">
+                  <matrix>
+                    <Matrix a="0.159164428710938" d="0.159164428710938" tx="-40.75" ty="-40.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="17311873.png">
+                  <matrix>
+                    <Matrix a="0.232421875" d="0.238677978515625" tx="-60" ty="-61"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="17311873.png">
+                  <matrix>
+                    <Matrix a="0.159164428710938" d="0.159164428710938" tx="-40.75" ty="-40.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,85 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="960" height="640" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 305" majorVersion="24" buildNumber="305" viewAngle3D="84.5182101128788" vanishingPoint3DX="480" vanishingPoint3DY="320" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="AE8A96029B071D4C809117F4124C51F0">
+     <media>
+          <DOMSoundItem name="006135194_prev (2).mp3" itemID="67dca3d4-0000027b" sourceExternalFilepath="./LIBRARY/006135194_prev (2).mp3" sourceLastImported="1742513069" externalFileCRC32="3549957941" externalFileSize="23405" href="006135194_prev (2).mp3" soundDataHRef="M 12 1742513108.dat" format="22kHz 16bit Stereo" sampleCount="64512" exportFormat="1" exportBits="7" dataLength="23405" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="16128"/>
+          <DOMSoundItem name="008699584_prev.mp3" itemID="67ddee15-000003b5" sourceExternalFilepath="./LIBRARY/008699584_prev.mp3" sourceLastImported="1742597405" externalFileCRC32="2951153008" externalFileSize="24241" href="008699584_prev.mp3" soundDataHRef="M 16 1742597653.dat" format="22kHz 16bit Stereo" sampleCount="66816" exportFormat="1" exportBits="7" dataLength="24241" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="16704"/>
+          <DOMSoundItem name="008700019_prev.mp3" itemID="67dde839-00000362" sourceExternalFilepath="./LIBRARY/008700019_prev.mp3" sourceLastImported="1742596085" href="008700019_prev.mp3" soundDataHRef="M 14 1742596153.dat" format="22kHz 16bit Stereo" sampleCount="72000" exportFormat="1" exportBits="7" dataLength="26122" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="18000"/>
+          <DOMSoundItem name="008700019_prev.mp3 copia" itemID="67ddedcb-000003af" sourceExternalFilepath="./LIBRARY/008700019_prev.mp3 copia" sourceLastImported="1742596085" href="008700019_prev.mp3 copia" soundDataHRef="M 15 1742597567.dat" format="22kHz 16bit Stereo" sampleCount="72000" exportFormat="1" exportBits="7" dataLength="26122" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="18000"/>
+          <DOMSoundItem name="008700305_prev(8).mp3" itemID="67db5948-000001cc" sourceExternalFilepath="./LIBRARY/008700305_prev(8).mp3" sourceLastImported="1742428417" externalFileCRC32="1933016457" externalFileSize="22987" href="008700305_prev(8).mp3" soundDataHRef="M 12 1742428488.dat" format="22kHz 16bit Stereo" sampleCount="63360" exportFormat="1" exportBits="7" dataLength="22987" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="15840"/>
+          <DOMBitmapItem name="17311870.png" itemID="67de0424-000002d3" sourceExternalFilepath="./LIBRARY/17311870.png" sourceLastImported="1742602934" externalFileCRC32="1094187166" externalFileSize="19021" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="17311870.png" bitmapDataHRef="M 19 1742603300.dat" frameRight="10240" frameBottom="10240"/>
+          <DOMBitmapItem name="17311873.png" itemID="67de0424-000002d8" sourceExternalFilepath="./LIBRARY/17311873.png" sourceLastImported="1742602946" externalFileCRC32="336830421" externalFileSize="18608" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="17311873.png" bitmapDataHRef="M 20 1742603300.dat" frameRight="10240" frameBottom="10240"/>
+          <DOMBitmapItem name="3388845.png" itemID="67de070a-00000379" sourceExternalFilepath="./LIBRARY/3388845.png" sourceLastImported="1742604033" externalFileCRC32="3438356103" externalFileSize="7359" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="3388845.png" bitmapDataHRef="M 22 1742604042.dat" frameRight="10240" frameBottom="10240"/>
+          <DOMSoundItem name="animals057.mp3" itemID="67ddefc3-000003e2" sourceExternalFilepath="./LIBRARY/animals057.mp3" sourceLastImported="1742597966" externalFileCRC32="218845564" externalFileSize="37615" href="animals057.mp3" soundDataHRef="M 17 1742598083.dat" format="44kHz 16bit Mono" sampleCount="51840" exportFormat="1" exportBits="7" dataLength="37615" exportNative="true" cachedSampleCount="6480"/>
+          <DOMSoundItem name="audioMp3.mp3" itemID="67ddf997-00000278" linkageExportForAS="true" linkageClassName="audioMp3" sourceExternalFilepath="./LIBRARY/audioMp3.mp3" sourceLastImported="1742600625" externalFileCRC32="1966186595" externalFileSize="393120" href="audioMp3.mp3" soundDataHRef="M 18 1742600578.dat" format="22kHz 16bit Stereo" sampleCount="1244160" exportFormat="1" exportBits="7" dataLength="393120" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="311040"/>
+          <DOMSoundItem name="Gallo (2).mp3" itemID="67dcabfe-0000031a" sourceExternalFilepath="./LIBRARY/Gallo (2).mp3" sourceLastImported="1742515118" href="Gallo (2).mp3" soundDataHRef="M 13 1742515198.dat" format="22kHz 16bit Mono" sampleCount="134208" exportFormat="1" exportBits="7" dataLength="42734" exportNative="true" cachedSampleCount="33552"/>
+          <DOMBitmapItem name="Mapa de bits 1" itemID="67db4a3a-000001a0" sourceExternalFilepath="./LIBRARY/Mapa de bits 1" sourceLastImported="1742424634" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 1" bitmapDataHRef="M 1 1742424634.dat" frameRight="12520" frameBottom="8460"/>
+          <DOMBitmapItem name="Mapa de bits 10" itemID="67db5739-000001c6" sourceExternalFilepath="./LIBRARY/Mapa de bits 10" sourceLastImported="1742427961" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 10" bitmapDataHRef="M 10 1742427961.dat" frameRight="12520" frameBottom="12520"/>
+          <DOMBitmapItem name="Mapa de bits 11" itemID="67db57db-000001c8" sourceExternalFilepath="./LIBRARY/Mapa de bits 11" sourceLastImported="1742428123" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 11" bitmapDataHRef="M 11 1742428123.dat" frameRight="9000" frameBottom="6380"/>
+          <DOMBitmapItem name="Mapa de bits 2" itemID="67db4b26-000001a2" sourceExternalFilepath="./LIBRARY/Mapa de bits 2" sourceLastImported="1742424870" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 2" bitmapDataHRef="M 2 1742424870.dat" frameRight="12520" frameBottom="8340"/>
+          <DOMBitmapItem name="Mapa de bits 3" itemID="67db4d24-000001a4" sourceExternalFilepath="./LIBRARY/Mapa de bits 3" sourceLastImported="1742425380" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 3" bitmapDataHRef="M 3 1742425380.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="Mapa de bits 4" itemID="67db4d9a-000001a6" sourceExternalFilepath="./LIBRARY/Mapa de bits 4" sourceLastImported="1742425498" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 4" bitmapDataHRef="M 4 1742425498.dat" frameRight="10240" frameBottom="10240"/>
+          <DOMBitmapItem name="Mapa de bits 5" itemID="67db5329-000001b0" sourceExternalFilepath="./LIBRARY/Mapa de bits 5" sourceLastImported="1742426921" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 5" bitmapDataHRef="M 5 1742426921.dat" frameRight="10720" frameBottom="12520"/>
+          <DOMBitmapItem name="Mapa de bits 6" itemID="67db53a6-000001b2" sourceExternalFilepath="./LIBRARY/Mapa de bits 6" sourceLastImported="1742427046" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 6" bitmapDataHRef="M 6 1742427046.dat" frameRight="11420" frameBottom="12520"/>
+          <DOMBitmapItem name="Mapa de bits 8" itemID="67db54f3-000001c1" sourceExternalFilepath="./LIBRARY/Mapa de bits 8" sourceLastImported="1742427379" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 8" bitmapDataHRef="M 8 1742427379.dat" frameRight="11400" frameBottom="9120"/>
+          <DOMBitmapItem name="Mapa de bits 9" itemID="67db56b6-000001c4" sourceExternalFilepath="./LIBRARY/Mapa de bits 9" sourceLastImported="1742427830" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Mapa de bits 9" bitmapDataHRef="M 9 1742427830.dat" frameRight="4580" frameBottom="4400"/>
+     </media>
+     <symbols>
+          <Include href="bocina.xml" itemIcon="0" loadImmediate="false" itemID="67db4eaa-000001a8" lastModified="1742599143"/>
+          <Include href="brnPausa.xml" itemIcon="0" loadImmediate="false" itemID="67ddff8e-000002c6" lastModified="1742603763"/>
+          <Include href="btnListo.xml" itemIcon="0" loadImmediate="false" itemID="67de0588-0000035d" lastModified="1742603693"/>
+          <Include href="btnMas.xml" itemIcon="0" loadImmediate="false" itemID="67de04c6-000002e5" lastModified="1742603608"/>
+          <Include href="btnMas2.xml" itemIcon="0" loadImmediate="false" itemID="67de064f-0000036c" lastModified="1742603893"/>
+          <Include href="btnMenos.xml" itemIcon="0" loadImmediate="false" itemID="67de04be-000002e0" lastModified="1742603543"/>
+          <Include href="btnMenos2.xml" itemIcon="0" loadImmediate="false" itemID="67de0659-00000371" lastModified="1742603877"/>
+          <Include href="btnPlay.xml" itemIcon="0" loadImmediate="false" itemID="67de0590-0000035e" lastModified="1742603747"/>
+          <Include href="btnSiguiente.xml" itemIcon="0" loadImmediate="false" itemID="67cf89fb-000001ba" lastModified="1742609104"/>
+          <Include href="btnStop.xml" itemIcon="0" loadImmediate="false" itemID="67ddf645-0000022d" lastModified="1742604276"/>
+          <Include href="btnVolver.xml" itemIcon="0" loadImmediate="false" itemID="67de0749-0000037e" lastModified="1742604105"/>
+          <Include href="burro.xml" itemIcon="0" loadImmediate="false" itemID="67dde82e-0000035b" lastModified="1742599146"/>
+          <Include href="caballo.xml" itemIcon="0" loadImmediate="false" itemID="67dca16a-00000225" lastModified="1742599147"/>
+          <Include href="Cochino.xml" itemIcon="0" loadImmediate="false" itemID="67dca436-0000027d" lastModified="1742599151"/>
+          <Include href="cpEscenario1.xml" itemID="67cf8710-00000195" lastModified="1742609086"/>
+          <Include href="cpEscenario2.xml" itemID="67cf8898-000001b7" lastModified="1742604269"/>
+          <Include href="gallo.xml" itemIcon="0" loadImmediate="false" itemID="67dcabf4-00000312" lastModified="1742599494"/>
+          <Include href="oveja.xml" itemIcon="0" loadImmediate="false" itemID="67ddefac-000003db" lastModified="1742599536"/>
+          <Include href="vaca.xml" itemIcon="0" loadImmediate="false" itemID="67dded5c-000003a7" lastModified="1742600731"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Escena 1" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="codigo" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var escenario=new lib.cpEscenario1();
+this.addChild(escenario);
+
+this.cambiarEscenario = function (nuevoEscenario){
+	this.addChild(nuevoEscenario);
+	this.removeChild(escenario);
+	escenario=nuevoEscenario;
+	
+	}]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

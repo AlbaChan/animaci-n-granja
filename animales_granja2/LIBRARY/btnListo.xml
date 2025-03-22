@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnListo" itemID="67de0588-0000035d" symbolType="button" lastModified="1742603693">
+  <timeline>
+    <DOMTimeline name="btnListo" currentFrame="1">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 4">
+                  <matrix>
+                    <Matrix a="0.210601806640625" d="0.173995971679688" tx="-53.9" ty="-44.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="254.05" y="259.2"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 4">
+                  <matrix>
+                    <Matrix a="0.210601806640625" d="0.211135864257812" tx="-54" ty="-54"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="254.5" y="258.35"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 4">
+                  <matrix>
+                    <Matrix a="0.210601806640625" d="0.173995971679688" tx="-53.9" ty="-44.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="254.05" y="259.2"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

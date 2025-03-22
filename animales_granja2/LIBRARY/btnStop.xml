@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnStop" itemID="67ddf645-0000022d" symbolType="button" lastModified="1742604276">
+  <timeline>
+    <DOMTimeline name="btnStop" currentFrame="1">
+      <layers>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 3">
+                  <matrix>
+                    <Matrix a="0.406646728515625" d="0.344146728515625" tx="-52.05" ty="-44.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 3">
+                  <matrix>
+                    <Matrix a="0.565643310546875" d="0.466339111328125" tx="-72" ty="-60"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 3">
+                  <matrix>
+                    <Matrix a="0.406646728515625" d="0.344146728515625" tx="-52.05" ty="-44.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

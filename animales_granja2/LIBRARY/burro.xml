@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="burro" itemID="67dde82e-0000035b" symbolType="button" lastModified="1742599146">
+  <timeline>
+    <DOMTimeline name="burro" currentFrame="2">
+      <layers>
+        <DOMLayer name="mp3" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728" soundName="008700019_prev.mp3 copia">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 6">
+                  <matrix>
+                    <Matrix a="0.25885009765625" d="0.214736938476562" ty="-67.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="286.85" y="312.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 6">
+                  <matrix>
+                    <Matrix a="0.293716430664062" d="0.214736938476562" tx="-10" ty="-67"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="286.85" y="311.55"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 6">
+                  <matrix>
+                    <Matrix a="0.25885009765625" d="0.214736938476562" ty="-67.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="286.85" y="312.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

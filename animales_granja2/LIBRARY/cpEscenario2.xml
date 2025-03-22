@@ -1,0 +1,238 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cpEscenario2" itemID="67cf8898-000001b7" linkageExportForAS="true" linkageClassName="cpEscenario2" lastModified="1742604269" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="cpEscenario2" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC" autoNamed="false" highlighted="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gallo" symbolType="button">
+                  <matrix>
+                    <Matrix tx="100" ty="250.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="364.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_3" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="burro" symbolType="button">
+                  <matrix>
+                    <Matrix tx="413" ty="250.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_4" color="#FF4FFF" autoNamed="false" highlighted="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.btnVolver.on("click",irA2.bind(this));
+
+function irA2(e){
+this.parent.cambiarEscenario (new lib.cpEscenario1());	
+	}
+
+var sonido = new createjs.Sound.play("audioMp3", {loop: 0});
+
+sonido.volume = 0.5;
+
+function detenerSonido() {
+    sonido.stop();
+}
+
+function iniciarSonido() {
+    sonido.play();
+}
+
+this.btnPausa.addEventListener("click", detenerSonido);
+this.btnVolver.addEventListener("click", detenerSonido);
+this.btnPlay.addEventListener("click", iniciarSonido);
+
+
+this.btnMas2.addEventListener("click", function(){
+	if (sonido.volume < 1){
+		sonido.volume += 0.1;
+	}
+});
+
+this.btnMenos2.addEventListener("click", function(){
+	if (sonido.volume > 0){
+		sonido.volume -= 0.1;
+	}
+});]]></script>
+              </Framescript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_5" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="oveja" symbolType="button">
+                  <matrix>
+                    <Matrix tx="178.55" ty="470"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_8" color="#FF4F4F" highlighted="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="vaca" symbolType="button">
+                  <matrix>
+                    <Matrix tx="758.05" ty="249"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_7" color="#669900">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Cochino" symbolType="button">
+                  <matrix>
+                    <Matrix tx="684.5" ty="469.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="67.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_6" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="caballo" symbolType="button">
+                  <matrix>
+                    <Matrix tx="490.1" ty="470.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#99FFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-20 -19|19180 -19!19180 -19|19180 12781!19180 12781|-20 12781!-20 12781|-20 -19"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 2">
+                  <matrix>
+                    <Matrix a="1.63272094726562" d="1.86285400390625" tx="-58" ty="-79"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="brnPausa" name="btnPlay" symbolType="button">
+                  <matrix>
+                    <Matrix tx="32.65" ty="593.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnPlay" name="btnPausa" symbolType="button">
+                  <matrix>
+                    <Matrix tx="126" ty="592"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnMas2" name="btnMas2" symbolType="button">
+                  <matrix>
+                    <Matrix tx="749.1" ty="584.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnMenos2" name="btnMenos2" symbolType="button">
+                  <matrix>
+                    <Matrix tx="859.75" ty="580.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnVolver" name="btnVolver" symbolType="button">
+                  <matrix>
+                    <Matrix tx="454.5" ty="587.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="siguiente" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Titulo" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="132.2" height="27.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="59.05" ty="40.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Escenario 2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="VinetaBT-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

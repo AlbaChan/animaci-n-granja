@@ -1,0 +1,159 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cpEscenario1" itemID="67cf8710-00000195" linkageExportForAS="true" linkageClassName="cpEscenario1" lastModified="1742609086" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="cpEscenario1" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Capa_2" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="btnListo" name="btnStop" symbolType="button">
+                  <matrix>
+                    <Matrix tx="626.9" ty="583.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnStop" name="btnListo" symbolType="button">
+                  <matrix>
+                    <Matrix tx="492.05" ty="583.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="codigo" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Framescript language="JavaScript">
+                <script><![CDATA[this.btnSiguiente1.on("click",irA2.bind(this));
+
+function irA2(e){
+this.parent.cambiarEscenario (new lib.cpEscenario2());	
+	}
+
+var sonido = new createjs.Sound.play("audioMp3", {loop: 0});
+
+sonido.volume = 0.5;
+
+function detenerSonido() {
+    sonido.stop();
+}
+
+function iniciarSonido() {
+    sonido.play();
+}
+
+this.btnStop.addEventListener("click", detenerSonido);
+this.btnSiguiente1.addEventListener("click", detenerSonido);
+this.btnListo.addEventListener("click", iniciarSonido);
+
+
+this.btnMas.addEventListener("click", function(){
+	if (sonido.volume < 1){
+		sonido.volume += 0.1;
+	}
+});
+
+this.btnMenos.addEventListener("click", function(){
+	if (sonido.volume > 0){
+		sonido.volume -= 0.1;
+	}
+});]]></script>
+              </Framescript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="btnMenos" name="btnMenos" symbolType="button">
+                  <matrix>
+                    <Matrix tx="306.75" ty="578.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnMas" name="btnMas" symbolType="button">
+                  <matrix>
+                    <Matrix tx="158.6" ty="576.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="siguiente" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="btnSiguiente" name="btnSiguiente1" symbolType="button">
+                  <matrix>
+                    <Matrix d="2.71206665039062" tx="810.8" ty="575.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Titulo" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="-108.05" width="224.05" height="27.7" isSelectable="false">
+                  <matrix>
+                    <Matrix d="2.36810302734375" tx="154.1" ty="22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LA GRANJA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="27.7" size="25" bitmapSize="500" face="TimesNewRomanPSMT" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Capa_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-20 -19|19180 -19!19180 -19|19180 12781!19180 12781|-20 12781!-20 12781|-20 -19"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance libraryItemName="Mapa de bits 1">
+                  <matrix>
+                    <Matrix a="1.54974365234375" d="1.61479187011719" ty="-44"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
